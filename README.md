@@ -1,7 +1,9 @@
 ## 🏠블록체인기반 부동산 거래 Dapp
 
+  ![image](https://github.com/Daewook123/Bit-BlockChainRealestate/assets/107476577/b92ca3bf-1996-4c70-8ad1-e8e28a1e730d)|![image](https://github.com/Daewook123/Bit-BlockChainRealestate/assets/107476577/5f5e7c4a-ac12-4369-96a2-78ea70d80d96)
+--- | --- |
 
- 
+
 
 ## ❓ 프로젝트 기본 소개
 
@@ -25,10 +27,7 @@
   <img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white">
 <img src="https://img.shields.io/badge/socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white">
  
-  <br>
-  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <br>
+
 
 </div>
 
@@ -44,16 +43,16 @@
 ### ✔️BlockChain
 
 <div align=left>
-  <img src="https://img.shields.io/badge/web3-F7DF1E?style=for-the-badge&logo=web3&logoColor=black"> 
+  <img src="https://img.shields.io/badge/web3.js-F7DF1E?style=for-the-badge&logo=web3.js&logoColor=black"> 
 <img src="https://img.shields.io/badge/IPFS-007FFF?style=for-the-badge&logo=IPFS&logoColor=white">
   <img src="https://img.shields.io/badge/solidity-000000?style=for-the-badge&logo=solidity&logoColor=white">
+  <img src="https://img.shields.io/badge/remix-050038?style=for-the-badge&logo=remix&logoColor=white">
  <br>
 
-## 📚 시스템 아키텍쳐
-<p align="left">
-  <img src="https://github.com/Daewook123/Bit-BlockChainRealestate/issues/2#issue-2340814023">
-</p>
+## 🖥️시스템 아키텍쳐
+![image](https://github.com/Daewook123/Bit-BlockChainRealestate/assets/107476577/75ee4db4-c80d-46a2-bd2a-73e38c6f64af)
 
-## 📚 화면설계
+
+
 
 
